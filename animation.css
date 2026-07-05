@@ -1,5 +1,6 @@
 .hover {
-  width: 200px;
+  width: 500px;
+  height: 400px;
   transition: 0.5s;
   border: 2px solid black;
   border-radius: 10px;
