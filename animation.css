@@ -13,6 +13,8 @@
     animation: slide 4s infinite alternate;
     gap: 0px;
 }
+h4{
+  text-align: center;
 
 @keyframes slide{
     from{
